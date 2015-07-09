@@ -80,7 +80,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'daucloudlab_phoneshop-daulab-org',
         'USER':'daucloudlab',
-        'PASSWORD':'8912411019862010',
+        'PASSWORD':'89..',
         'HOST':'127.0.0.1'
     }
 }
